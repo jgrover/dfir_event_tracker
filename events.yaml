@@ -1,0 +1,317 @@
+# DFIR conference catalog — source of truth.
+# Edit this YAML. Consumers convert it to JSON in their own project.
+# Event id values are immutable.
+
+version: 1
+events:
+- id: aafs-2026
+  name: American Academy of Forensic Sciences
+  series: AAFS
+  start: '2026-02-09'
+  end: '2026-02-14'
+  city: New Orleans, LA, USA
+  location: Ernest N. Morial Convention Center
+  format: in-person
+  url: https://www.aafs.org/annual-conference
+  notes: 78th Annual Scientific Conference.
+- id: magnet-virtual-2026
+  name: Magnet Virtual Summit
+  series: Magnet Virtual Summit
+  start: '2026-02-23'
+  end: '2026-02-26'
+  city: Online
+  location: Virtual
+  format: virtual
+  url: https://www.magnetvirtualsummit.com/
+  notes: ''
+- id: msab-2026
+  name: MSAB Mobile Forensics Digital Summit
+  series: MSAB Digital Summit
+  start: '2026-03-10'
+  end: '2026-03-12'
+  city: Online
+  location: Virtual
+  format: virtual
+  url: https://www.msab.com/digital-summit-2026/
+  notes: ''
+- id: dfrws-eu-2026
+  name: DFRWS EU
+  series: DFRWS EU
+  start: '2026-03-24'
+  end: '2026-03-27'
+  city: Linköping, Sweden
+  location: Linköping University
+  format: hybrid
+  url: https://dfrws.org/conferences/dfrws-eu-2026/
+  notes: Workshop day March 24; conference March 25–27.
+- id: cellebrite-c2c-2026
+  name: Cellebrite C2C User Summit
+  series: Cellebrite C2C
+  start: '2026-04-13'
+  end: '2026-04-17'
+  city: Washington, DC, USA
+  location: Marriott Marquis Washington, D.C.
+  format: in-person
+  url: https://cellebrite.com/en/events/c2c-user-summit-2026
+  notes: ''
+- id: magnet-user-2026
+  name: Magnet User Summit
+  series: Magnet User Summit
+  start: '2026-04-20'
+  end: '2026-04-22'
+  city: Nashville, TN, USA
+  location: JW Marriott Nashville
+  format: in-person
+  url: https://magnetusersummit.com/
+  notes: ''
+- id: iacis-orlando-2026
+  name: IACIS Digital Forensics Conference
+  series: IACIS
+  start: '2026-04-27'
+  end: '2026-05-08'
+  city: Orlando, FL, USA
+  location: Orlando Training Conference
+  format: in-person
+  url: https://www.iacis.com/events/
+  notes: Flagship IACIS Orlando training conference, including BCFE.
+- id: nccc-2026
+  name: National Cybercrime Conference
+  series: NCCC
+  start: '2026-04-28'
+  end: '2026-04-30'
+  city: Norwood, MA, USA
+  location: Four Points by Sheraton Norwood
+  format: in-person
+  url: https://www.mass.gov/info-details/national-cyber-crime-conference
+  notes: Restricted to law-enforcement, prosecutors, and forensic examiners.
+- id: htcia-ohio-2026
+  name: HTCIA Salt Fork Conference
+  series: HTCIA
+  start: '2026-05-20'
+  end: '2026-05-22'
+  city: Kimbolton, OH, USA
+  location: Salt Fork Lodge and Conference Center
+  format: in-person
+  url: https://www.htcia.org/ohio-htcia-salt-fork-conference/
+  notes: 25th Annual Ohio Chapter spring training conference. HTCIA is not holding the Global Training
+    Event or CCIS in 2026.
+- id: techno-east-2026
+  name: Techno Security East
+  series: Techno Security East
+  start: '2026-06-02'
+  end: '2026-06-04'
+  city: Myrtle Beach, SC, USA
+  location: Myrtle Beach Sheraton & Convention Center
+  format: in-person
+  url: https://www.technosecurity.us/east
+  notes: ''
+- id: dfrws-usa-2026
+  name: DFRWS USA
+  series: DFRWS USA
+  start: '2026-07-25'
+  end: '2026-07-30'
+  city: Arlington, VA, USA
+  location: George Mason University Mason Square
+  format: hybrid
+  url: https://dfrws.org/conferences/dfrws-usa-2026/
+  notes: Workshop days July 25–27; conference July 28–30.
+- id: swgde-2026
+  name: SWGDE
+  series: SWGDE
+  start: '2026-08-31'
+  end: '2026-09-03'
+  city: Bend, OR, USA
+  location: Sunriver Resort
+  format: in-person
+  url: https://www.swgde.org/events/
+  notes: Scientific Working Group on Digital Evidence meeting.
+- id: iacis-budapest-2026
+  name: IACIS Digital Forensics Conference
+  series: IACIS
+  start: '2026-10-12'
+  end: '2026-10-23'
+  city: Budapest, Hungary
+  location: IACIS BCFE training
+  format: in-person
+  url: https://www.iacis.com/events/
+  notes: IACIS BCFE training conference in Budapest.
+- id: sans-dfir-2026
+  name: SANS DFIR Summit
+  series: SANS DFIR Summit
+  start: '2026-10-15'
+  end: '2026-10-16'
+  city: Arlington, VA, USA
+  location: Hilton Arlington Rosslyn The Key
+  format: hybrid
+  url: https://www.sans.org/cyber-security-training-events/digital-forensics-summit-2026
+  notes: Summit October 15–16; training courses October 17–22.
+- id: dfrws-apac-2026
+  name: DFRWS APAC
+  series: DFRWS APAC
+  start: '2026-10-19'
+  end: '2026-10-23'
+  city: Singapore
+  location: Singapore (hybrid, with APAC satellite sites)
+  format: hybrid
+  url: https://dfrws.org/conferences/dfrws-apac-2026/
+  notes: ''
+- id: techno-west-2026
+  name: Techno Security West
+  series: Techno Security West
+  start: '2026-10-20'
+  end: '2026-10-22'
+  city: San Diego, CA, USA
+  location: Town & Country Resort
+  format: in-person
+  url: https://www.technosecurity.us/west
+  notes: ''
+- id: magnet-virtual-2027
+  name: Magnet Virtual Summit
+  series: Magnet Virtual Summit
+  start: '2027-02-08'
+  end: '2027-02-11'
+  city: Online
+  location: Virtual
+  format: virtual
+  url: https://www.magnetforensics.com/blog/submissions-now-open-to-present-at-magnet-user-summit-magnet-virtual-summit-2027/
+  notes: ''
+- id: aafs-2027
+  name: American Academy of Forensic Sciences
+  series: AAFS
+  start: '2027-02-15'
+  end: '2027-02-20'
+  city: Orlando, FL, USA
+  location: Rosen Shingle Creek Hotel
+  format: in-person
+  url: https://www.aafs.org/annual-conference
+  notes: 79th Annual Scientific Conference.
+- id: magnet-user-2027
+  name: Magnet User Summit
+  series: Magnet User Summit
+  start: '2027-03-08'
+  end: '2027-03-10'
+  city: Austin, TX, USA
+  location: Austin, Texas
+  format: in-person
+  url: https://www.magnetforensics.com/blog/submissions-now-open-to-present-at-magnet-user-summit-magnet-virtual-summit-2027/
+  notes: ''
+- id: msab-2027
+  name: MSAB Mobile Forensics Digital Summit
+  series: MSAB Digital Summit
+  start: '2027-03-16'
+  end: '2027-03-18'
+  city: Online
+  location: Virtual
+  format: virtual
+  url: https://www.msab.com/msab-mobile-forensics-digital-summit-2027/
+  notes: ''
+- id: dfrws-eu-2027
+  name: DFRWS EU
+  series: DFRWS EU
+  start: '2027-03-30'
+  end: '2027-04-02'
+  city: Edinburgh, Scotland
+  location: Edinburgh Napier University
+  format: in-person
+  url: https://dfrws.org/conferences/dfceurope2027/
+  notes: Listed as Digital Forensics Conference Europe 2027 (formerly DFRWS EU).
+- id: cellebrite-c2c-2027
+  name: Cellebrite C2C User Summit
+  series: Cellebrite C2C
+  start: '2027-04-12'
+  end: '2027-04-16'
+  city: Dallas, TX, USA
+  location: Dallas, Texas
+  format: in-person
+  url: https://c2c.cellebrite.com/event/2027/register
+  notes: ''
+- id: iacis-orlando-2027
+  name: IACIS Digital Forensics Conference
+  series: IACIS
+  start: '2027-04-19'
+  end: '2027-04-30'
+  city: Orlando, FL, USA
+  location: Orlando Training Conference
+  format: in-person
+  url: https://www.iacis.com/events/2027-orlando-training-conference/
+  notes: Flagship IACIS Orlando training conference.
+- id: htcia-2027
+  name: HTCIA Global Training Event
+  series: HTCIA
+  start: null
+  end: null
+  city: TBA
+  location: Dates not yet announced
+  format: in-person
+  url: https://www.htcia.org/training/
+  notes: 2027 dates have not been posted. HTCIA did not hold GTE or CCIS in 2025 or 2026.
+- id: techno-east-2027
+  name: Techno Security East
+  series: Techno Security East
+  start: '2027-05-25'
+  end: '2027-05-27'
+  city: Myrtle Beach, SC, USA
+  location: Myrtle Beach Sheraton & Convention Center
+  format: in-person
+  url: https://www.technosecurity.us/east
+  notes: ''
+- id: sans-dfir-2027
+  name: SANS DFIR Summit
+  series: SANS DFIR Summit
+  start: null
+  end: null
+  city: TBA
+  location: Dates not yet announced
+  format: hybrid
+  url: https://www.sans.org/cyber-security-training-events
+  notes: 2027 dates have not been posted.
+- id: dfrws-usa-2027
+  name: DFRWS USA
+  series: DFRWS USA
+  start: null
+  end: null
+  city: TBA
+  location: Dates not yet announced
+  format: hybrid
+  url: https://dfrws.org/conferences/
+  notes: 2027 dates have not been posted.
+- id: dfrws-apac-2027
+  name: DFRWS APAC
+  series: DFRWS APAC
+  start: null
+  end: null
+  city: TBA
+  location: Dates not yet announced
+  format: hybrid
+  url: https://dfrws.org/conferences/
+  notes: 2027 dates have not been posted.
+- id: techno-west-2027
+  name: Techno Security West
+  series: Techno Security West
+  start: null
+  end: null
+  city: TBA
+  location: Dates not yet announced
+  format: in-person
+  url: https://www.technosecurity.us/west
+  notes: 2027 dates have not been posted.
+- id: nccc-2027
+  name: National Cybercrime Conference
+  series: NCCC
+  start: null
+  end: null
+  city: TBA
+  location: Dates not yet announced
+  format: in-person
+  url: https://www.mass.gov/info-details/national-cyber-crime-conference
+  notes: 2027 dates have not been posted. Typically restricted to law enforcement.
+- id: swgde-2027
+  name: SWGDE
+  series: SWGDE
+  start: null
+  end: null
+  city: TBA
+  location: Dates not yet announced
+  format: in-person
+  url: https://www.swgde.org/events/
+  notes: SWGDE usually meets three times a year; 2027 dates have not been posted.
