@@ -173,7 +173,7 @@ events:
   city: Online
   location: Virtual
   format: virtual
-  url: https://www.magnetforensics.com/blog/submissions-now-open-to-present-at-magnet-user-summit-magnet-virtual-summit-2027/
+  url: https://magnetvirtualsummit.com/
   notes: ''
 - id: aafs-2027
   name: American Academy of Forensic Sciences
@@ -193,7 +193,7 @@ events:
   city: Austin, TX, USA
   location: Austin, Texas
   format: in-person
-  url: https://www.magnetforensics.com/blog/submissions-now-open-to-present-at-magnet-user-summit-magnet-virtual-summit-2027/
+  url: https://magnetusersummit.com/
   notes: ''
 - id: msab-2027
   name: MSAB Mobile Forensics Digital Summit
@@ -258,23 +258,23 @@ events:
 - id: sans-dfir-2027
   name: SANS DFIR Summit
   series: SANS DFIR Summit
-  start: null
-  end: null
-  city: TBA
-  location: Dates not yet announced
-  format: hybrid
-  url: https://www.sans.org/cyber-security-training-events
-  notes: 2027 dates have not been posted.
+  start: '2027-08-23'
+  end: '2027-08-24'
+  city: Washington, DC, USA
+  location: The Westin DC Downtown
+  format: in-person
+  url: https://www.sans.org/cyber-security-training-events/digital-forensics-summit-2027
+  notes: Summit August 23–24 (in person). Training runs August 25–30 and is also offered virtually.
 - id: dfrws-usa-2027
-  name: DFRWS USA
-  series: DFRWS USA
-  start: null
-  end: null
-  city: TBA
-  location: Dates not yet announced
+  name: DFRWS Americas
+  series: DFRWS Americas
+  start: '2027-07-19'
+  end: '2027-07-23'
+  city: Vancouver, BC, Canada
+  location: Simon Fraser University Harbour Centre
   format: hybrid
-  url: https://dfrws.org/conferences/
-  notes: 2027 dates have not been posted.
+  url: https://dfrws.org/conferences/dfrws-americas-2027/
+  notes: Formerly DFRWS USA. Presentations are in person; virtual registration is available.
 - id: dfrws-apac-2027
   name: DFRWS APAC
   series: DFRWS APAC
@@ -288,30 +288,40 @@ events:
 - id: techno-west-2027
   name: Techno Security West
   series: Techno Security West
-  start: null
-  end: null
-  city: TBA
-  location: Dates not yet announced
+  start: '2027-10-26'
+  end: '2027-10-28'
+  city: San Diego, CA, USA
+  location: Town & Country Resort
   format: in-person
   url: https://www.technosecurity.us/west
-  notes: 2027 dates have not been posted.
+  notes: ''
 - id: nccc-2027
   name: National Cybercrime Conference
   series: NCCC
-  start: null
-  end: null
-  city: TBA
-  location: Dates not yet announced
+  start: '2027-04-27'
+  end: '2027-04-29'
+  city: Norwood, MA, USA
+  location: Norwood, Massachusetts
   format: in-person
   url: https://www.mass.gov/info-details/national-cyber-crime-conference
-  notes: 2027 dates have not been posted. Typically restricted to law enforcement.
+  notes: 16th annual conference. Restricted to law enforcement, prosecutors, and forensic examiners.
 - id: swgde-2027
   name: SWGDE
   series: SWGDE
-  start: null
-  end: null
-  city: TBA
-  location: Dates not yet announced
+  start: '2027-01-11'
+  end: '2027-01-14'
+  city: Tysons Corner, VA, USA
+  location: Hosted by the MITRE Corporation
   format: in-person
   url: https://www.swgde.org/events/
-  notes: SWGDE usually meets three times a year; 2027 dates have not been posted.
+  notes: Scientific Working Group on Digital Evidence meeting.
+- id: swgde-2027-may
+  name: SWGDE
+  series: SWGDE
+  start: '2027-05-17'
+  end: '2027-05-20'
+  city: Denver, CO, USA
+  location: Hosted by UC Denver National Center for Media Forensics
+  format: in-person
+  url: https://www.swgde.org/events/
+  notes: Scientific Working Group on Digital Evidence meeting.
